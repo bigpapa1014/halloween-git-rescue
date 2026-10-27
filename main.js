@@ -1,7 +1,6 @@
 
-const securityMode = "NIGHTMARE";
+const securityMode = "SANCTUARY";
 console.log(`Estado del servidor: ${securityMode}`);
-EOF
 
 cat >> main.js <<'EOF'
 const doorsLocked = true;
