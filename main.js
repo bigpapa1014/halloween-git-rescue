@@ -1,4 +1,5 @@
-const securityMode = "INITIAL";
+
+const securityMode = "NIGHTMARE";
 console.log(`Estado del servidor: ${securityMode}`);
 EOF
 
