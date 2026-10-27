@@ -1,4 +1,4 @@
-const securityMode = "INITIAL";
+const securityMode = "SANCTUARY";
 console.log(`Estado del servidor: ${securityMode}`);
 EOF
 
